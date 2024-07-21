@@ -1,0 +1,5 @@
+-include libraries/Gui/build/Makefile.link
+-include libraries/GuiController/build/Makefile.link
+-include libraries/OnePole/build/Makefile.link
+-include libraries/Trill/build/Makefile.link
+-include libraries/WSServer/build/Makefile.link

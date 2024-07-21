@@ -1,3 +1,5 @@
+//inspiration from https://www.youtube.com/watch?v=xDdul0FhAAY&list=PLCrgFeG6pwQmdbB6l3ehC8oBBZbatVoz3&index=14&ab_channel=BelaPlatform
+
 #pragma once
 
 class Ramp {

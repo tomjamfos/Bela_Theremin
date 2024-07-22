@@ -1,6 +1,8 @@
 # Bela_Theremin
 Instrument based on the Theremin using Bela and Trill sensors
 
-![alt text](https://github.com/tomjamfos/Bela_Theremin/blob/main/bela_theremin_fritzing.jpg)
+Pitch is controlled by the Trill bar whilst vibrato rate and depth are set by the Trill square.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/W1FMYw9HrsE&ab_channel=ThomasFoster/0.jpg)](https://www.youtube.com/watch?v=W1FMYw9HrsE&ab_channel=ThomasFoster)
+LEDs are used to display the amplitude level of the instrument and the depth of vibrato
+
+![alt text](https://github.com/tomjamfos/Bela_Theremin/blob/main/bela_theremin_fritzing.jpg)
